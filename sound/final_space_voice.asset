@@ -1,0 +1,2270 @@
+########## Final Space Advisor
+
+######### Hue Sounds
+sound =
+{
+	name = "hue_a_takeover_command"
+	file = "vo/final_space/Hue/A takeove command has been upload into my system.wav"
+}
+
+sound =
+{
+	name = "hue_activating_security"
+	file = "vo/final_space/Hue/Activating securrity protocol.wav"
+}
+
+sound =
+{
+	name = "hue_calculating"
+	file = "vo/final_space/Hue/calculating.wav"
+}
+
+sound =
+{
+	name = "hue_entering_into_corona"
+	file = "vo/final_space/Hue/Entering into the corona of the sun.wav"
+}
+
+sound =
+{
+	name = "hue_for_your_own_safety"
+	file = "vo/final_space/Hue/For your own safety.wav"
+}
+
+sound =
+{
+	name = "hue_hell_yeah"
+	file = "vo/final_space/Hue/Hell yeah dog.wav"
+}
+
+sound =
+{
+	name = "hue_i_am_detecting_armada"
+	file = "vo/final_space/Hue/I am detecting the apprroach of an armada of heavy incinerators.wav"
+}
+
+sound =
+{
+	name = "hue_i_can_only_hypothesize"
+	file = "vo/final_space/Hue/I can only hypothesize.wav"
+}
+
+sound =
+{
+	name = "hue_i_will_beat_you"
+	file = "vo/final_space/Hue/I will beat you within one inch of your life.wav"
+}
+
+sound =
+{
+	name = "hue_if_you_take_cookie"
+	file = "vo/final_space/Hue/If you take a cookie.wav"
+}
+
+sound =
+{
+	name = "hue_afriad_i_cannot"
+	file = "vo/final_space/Hue/Im afraid i cannot.wav"
+}
+
+sound =
+{
+	name = "hue_intruder_alert"
+	file = "vo/final_space/Hue/Intruder alert.wav"
+}
+
+sound =
+{
+	name = "hue_moons_gravity"
+	file = "vo/final_space/Hue/Moon gravity.wav"
+}
+
+sound =
+{
+	name = "hue_odds_are"
+	file = "vo/final_space/Hue/Odds are.wav"
+}
+
+sound =
+{
+	name = "hue_48_hours"
+	file = "vo/final_space/Hue/Only 48 hours till the breach consumes earth.wav"
+}
+
+sound =
+{
+	name = "hue_proximity_alert"
+	file = "vo/final_space/Hue/Proximity alert.wav"
+}
+
+sound =
+{
+	name = "hue_shield_integrity"
+	file = "vo/final_space/Hue/shield integrity is a 79 percent.wav"
+}
+
+sound =
+{
+	name = "hue_end_of_the_world"
+	file = "vo/final_space/Hue/So this is the end of the world.wav"
+}
+
+sound =
+{
+	name = "hue_sorry_to_be_bearer"
+	file = "vo/final_space/Hue/Sorry to be the bearer of bad news.wav"
+}
+
+sound =
+{
+	name = "hue_cookies_are_done"
+	file = "vo/final_space/Hue/The cookies are done.wav"
+}
+
+sound =
+{
+	name = "hue_galaxy_one_immobilized"
+	file = "vo/final_space/Hue/The galaxy one is immobilized.wav"
+}
+
+sound =
+{
+	name = "hue_no_match"
+	file = "vo/final_space/Hue/There is no match for little cato.wav"
+}
+
+sound =
+{
+	name = "hue_not_our_fight"
+	file = "vo/final_space/Hue/This is not our fight.wav"
+}
+
+sound =
+{
+	name = "hue_timing_is_everything"
+	file = "vo/final_space/Hue/Timing is everything.wav"
+}
+
+sound =
+{
+	name = "hue_not_equipped"
+	file = "vo/final_space/Hue/We are not equip to face this threat.wav"
+}
+
+sound =
+{
+	name = "hue_cannot_engage_engines"
+	file = "vo/final_space/Hue/We cannot engage the light fold engines.wav"
+}
+
+sound =
+{
+	name = "hue_kiss_your_cheeks_goodbye"
+	file = "vo/final_space/Hue/You can kiss your cheeks goodbye.wav"
+}
+
+sound =
+{
+	name = "hue_you_displayed_a_quality"
+	file = "vo/final_space/Hue/you displayed a quality i haven't seen in you recently.wav"
+}
+
+sound =
+{
+	name = "hue_think_you_know_a_person"
+	file = "vo/final_space/Hue/You think you know a person.wav"
+}
+
+sound =
+{
+	name = "hue_convulsive_spasm"
+	file = "vo/final_space/Hue/your brain will go into convulsive spasm.wav"
+}
+
+sound =
+{
+	name = "hue_only_friend"
+	file = "vo/final_space/Hue/You're my only friend.wav"
+}
+
+sound =
+{
+	name = "hue_zero_probability"
+	file = "vo/final_space/Hue/zero probability.wav"
+}
+
+######### Clarence Sounds
+sound =
+{
+	name = "clarence_i'll_touch_you_anytime_i_wish"
+	file = "vo/final_space/Clarence/I'll touch you anytime i wish.wav"
+}
+
+sound =
+{
+	name = "clarence_shop_of_doodads"
+	file = "vo/final_space/Clarence/Shop of doodads.wav"
+}
+
+######### Extras Sounds
+sound =
+{
+	name = "extras_are_you_giving_me_sas"
+	file = "vo/final_space/Extras/are you giving me sas.wav"
+}
+
+sound =
+{
+	name = "extras_do_you_wanna_get_a_drink"
+	file = "vo/final_space/Extras/Do you wanna get a drink.wav"
+}
+
+sound =
+{
+	name = "extras_everything_with_your_sister_was_a_mistake"
+	file = "vo/final_space/Extras/Everything with your sister was a mistake.wav"
+}
+
+sound =
+{
+	name = "extras_get_off_your_sas_buckets"
+	file = "vo/final_space/Extras/Get off your sas buckets.wav"
+}
+
+sound =
+{
+	name = "extras_i'm_confused"
+	file = "vo/final_space/Extras/I'm Confused.wav"
+}
+
+sound =
+{
+	name = "extras_is_this_what_death_feels_like"
+	file = "vo/final_space/Extras/Is this what death feels like.wav"
+}
+
+sound =
+{
+	name = "extras_my_special_little_prince"
+	file = "vo/final_space/Extras/My special little prince.wav"
+}
+
+sound =
+{
+	name = "extras_oh_my_gosh_you_are_all_so_sassy"
+	file = "vo/final_space/Extras/Oh my gosh you are all so sassy.wav"
+}
+
+sound =
+{
+	name = "extras_tough_titty_wumpus"
+	file = "vo/final_space/Extras/Tough titty wumpus.wav"
+}
+
+sound =
+{
+	name = "extras_we_will_go_with_him"
+	file = "vo/final_space/Extras/we will go with him.wav"
+}
+
+sound =
+{
+	name = "extras_your_so_tiny_man"
+	file = "vo/final_space/Extras/Your so tiny man.wav"
+}
+
+######### Gary Sounds
+sound =
+{
+	name = "gary_all_of_us_are_broken"
+	file = "vo/final_space/Gary/All of us are broken.wav"
+}
+
+sound =
+{
+	name = "gary_are_you_for_serious"
+	file = "vo/final_space/Gary/Are you for serious.wav"
+}
+
+sound =
+{
+	name = "gary_can_you_say_that_a_little_less_creepy_like"
+	file = "vo/final_space/Gary/Can you say that a little less creepy like.wav"
+}
+
+sound =
+{
+	name = "gary_cat_wizzz"
+	file = "vo/final_space/Gary/Cat wizzz.wav"
+}
+
+sound =
+{
+	name = "gary_crap_my_pants"
+	file = "vo/final_space/Gary/Crap my pants.wav"
+}
+
+sound =
+{
+	name = "gary_creeeew"
+	file = "vo/final_space/Gary/Creeeew.wav"
+}
+
+sound =
+{
+	name = "gary_did_anyone_ever_tell_you_emergency_lighting_brings_out_your_hotness"
+	file = "vo/final_space/Gary/Did anyone ever tell you emergency lighting brings out your hotness.wav"
+}
+
+sound =
+{
+	name = "gary_do_you_play_cards"
+	file = "vo/final_space/Gary/Do you play cards.wav"
+}
+
+sound =
+{
+	name = "gary_does_anyone_have_a_breath_mint"
+	file = "vo/final_space/Gary/Does anyone have a breath mint.wav"
+}
+
+sound =
+{
+	name = "gary_dont_do_it"
+	file = "vo/final_space/Gary/Dont do it.wav"
+}
+
+sound =
+{
+	name = "gary_dont_even"
+	file = "vo/final_space/Gary/Dont even.wav"
+}
+
+sound =
+{
+	name = "gary_dont_touch_any_of_my_stuff"
+	file = "vo/final_space/Gary/Dont touch any of my stuff.wav"
+}
+
+sound =
+{
+	name = "gary_dont_worry_i_do_this_all_the_time"
+	file = "vo/final_space/Gary/Dont worry i do this all the time.wav"
+}
+
+sound =
+{
+	name = "gary_employee_of_the_month"
+	file = "vo/final_space/Gary/Employee of the month.wav"
+}
+
+sound =
+{
+	name = "gary_first_time_i_got_a_girls_number_before_i_said_hey"
+	file = "vo/final_space/Gary/First time i got a girls number before i said hey.wav"
+}
+
+sound =
+{
+	name = "gary_free_candy"
+	file = "vo/final_space/Gary/Free Candy.wav"
+}
+
+sound =
+{
+	name = "gary_full_blown_screech_alarming"
+	file = "vo/final_space/Gary/Full blown screech alarming.wav"
+}
+
+sound =
+{
+	name = "gary_get_back_to_me"
+	file = "vo/final_space/Gary/Get back to me.wav"
+}
+
+sound =
+{
+	name = "gary_get_out_of_my_mind"
+	file = "vo/final_space/Gary/Get out of my mind.wav"
+}
+
+sound =
+{
+	name = "gary_get_your_finger_out_of_my_tummy"
+	file = "vo/final_space/Gary/Get your finger out of my tummy.wav"
+}
+
+sound =
+{
+	name = "gary_giant_scepter_of_power"
+	file = "vo/final_space/Gary/Giant scepter of power.wav"
+}
+
+sound =
+{
+	name = "gary_good_lord,_i_hate_you"
+	file = "vo/final_space/Gary/Good lord, i hate you.wav"
+}
+
+sound =
+{
+	name = "gary_heeeey"
+	file = "vo/final_space/Gary/Heeeey.wav"
+}
+
+sound =
+{
+	name = "gary_how_do_we_get_this_choo_choo_train_back_to_safety_town"
+	file = "vo/final_space/Gary/How do we get this choo choo train back to safety town.wav"
+}
+
+sound =
+{
+	name = "gary_how'd_you_end_up_with_a_little_green_tic_tac_cosmic_butt_head_like_that_in_the_fisrt_place"
+	file = "vo/final_space/Gary/How'd you end up with a little green tic tac cosmic butt head like that in the fisrt place.wav"
+}
+
+sound =
+{
+	name = "gary_i_am_going_to_murder_your_face_off"
+	file = "vo/final_space/Gary/I am going to murder your face off.wav"
+}
+
+sound =
+{
+	name = "gary_i_became_the_captain"
+	file = "vo/final_space/Gary/I became the captain.wav"
+}
+
+sound =
+{
+	name = "gary_i_can_take_anything"
+	file = "vo/final_space/Gary/I can take anything.wav"
+}
+
+sound =
+{
+	name = "gary_i_dont_see_a_kid_anymore_i_see_a_man_cat"
+	file = "vo/final_space/Gary/I dont see a kid anymore i see a man cat.wav"
+}
+
+sound =
+{
+	name = "gary_i_knew_you_were_it"
+	file = "vo/final_space/Gary/I knew you were it.wav"
+}
+
+sound =
+{
+	name = "gary_i_like_how_you_keep_shooting_people_after_they're_dead"
+	file = "vo/final_space/Gary/i like how you keep shooting people after they're dead.wav"
+}
+
+sound =
+{
+	name = "gary_i_like_how_you_speak_words"
+	file = "vo/final_space/Gary/I like how you speak words.wav"
+}
+
+sound =
+{
+	name = "gary_i_never_thought_id_be_creating_a_murder_squad_with_a_small_boy"
+	file = "vo/final_space/Gary/I never thought id be creating a murder squad with a small boy.wav"
+}
+
+sound =
+{
+	name = "gary_i_pulled_the_cupid's_arrow_out"
+	file = "vo/final_space/Gary/I pulled the cupid's arrow out.wav"
+}
+
+sound =
+{
+	name = "gary_i_say_we_burst_in"
+	file = "vo/final_space/Gary/I say we burst in.wav"
+}
+
+sound =
+{
+	name = "gary_i_think_i_destroyed_a_family"
+	file = "vo/final_space/Gary/I think i destroyed a family.wav"
+}
+
+sound =
+{
+	name = "gary_if_he_wants_a_war"
+	file = "vo/final_space/Gary/If he wants a war.wav"
+}
+
+sound =
+{
+	name = "gary_if_you_want_me_to_trust_you_first_we_clasp"
+	file = "vo/final_space/Gary/If you want me to trust you first we clasp.wav"
+}
+
+sound =
+{
+	name = "gary_im_never_gonna_let_you_go_again"
+	file = "vo/final_space/Gary/Im never gonna let you go again.wav"
+}
+
+sound =
+{
+	name = "gary_implode_into_nothingness"
+	file = "vo/final_space/Gary/Implode into nothingness.wav"
+}
+
+sound =
+{
+	name = "gary_it_feels_so_good"
+	file = "vo/final_space/Gary/It feels so good.wav"
+}
+
+sound =
+{
+	name = "gary_it's_stabbing_my_eyes"
+	file = "vo/final_space/Gary/It's stabbing my eyes.wav"
+}
+
+sound =
+{
+	name = "gary_its_a_face_eater"
+	file = "vo/final_space/Gary/Its a face eater.wav"
+}
+
+sound =
+{
+	name = "gary_just_gonna_get_my_keys"
+	file = "vo/final_space/Gary/Just gonna get my keys.wav"
+}
+
+sound =
+{
+	name = "gary_leason_learned"
+	file = "vo/final_space/Gary/Leason learned.wav"
+}
+
+sound =
+{
+	name = "gary_left"
+	file = "vo/final_space/Gary/Left.wav"
+}
+
+sound =
+{
+	name = "gary_lets_get_wild"
+	file = "vo/final_space/Gary/Lets get wild.wav"
+}
+
+sound =
+{
+	name = "gary_looking_good_gary"
+	file = "vo/final_space/Gary/Looking good gary.wav"
+}
+
+sound =
+{
+	name = "gary_love_isn't_a_formula"
+	file = "vo/final_space/Gary/Love isn't a formula.wav"
+}
+
+sound =
+{
+	name = "gary_loved_to_lick_himself"
+	file = "vo/final_space/Gary/Loved to lick himself.wav"
+}
+
+sound =
+{
+	name = "gary_motherlovin_cookie"
+	file = "vo/final_space/Gary/Motherlovin Cookie.wav"
+}
+
+sound =
+{
+	name = "gary_murderous_killing_confections"
+	file = "vo/final_space/Gary/Murderous killing confections.wav"
+}
+
+sound =
+{
+	name = "gary_name_one_relationship_built_on_honesty"
+	file = "vo/final_space/Gary/Name one relationship built on honesty.wav"
+}
+
+sound =
+{
+	name = "gary_never_ending_unsafe_stairs"
+	file = "vo/final_space/Gary/Never ending unsafe stairs.wav"
+}
+
+sound =
+{
+	name = "gary_no_time_for_cosmic_threeways"
+	file = "vo/final_space/Gary/No time for cosmic threeways.wav"
+}
+
+sound =
+{
+	name = "gary_nothing_is_impossible"
+	file = "vo/final_space/Gary/Nothing is impossible.wav"
+}
+
+sound =
+{
+	name = "gary_oh_my_crap"
+	file = "vo/final_space/Gary/Oh my crap.wav"
+}
+
+sound =
+{
+	name = "gary_oh_my_double_crap"
+	file = "vo/final_space/Gary/Oh my double crap.wav"
+}
+
+sound =
+{
+	name = "gary_oh_my_gosh_look_at_all_the_crap"
+	file = "vo/final_space/Gary/Oh my gosh look at all the crap.wav"
+}
+
+sound =
+{
+	name = "gary_oh_my_wow"
+	file = "vo/final_space/Gary/Oh my wow.wav"
+}
+
+sound =
+{
+	name = "gary_oh_myyyy_crap"
+	file = "vo/final_space/Gary/Oh myyyy crap.wav"
+}
+
+sound =
+{
+	name = "gary_play_the_good_stuff"
+	file = "vo/final_space/Gary/Play the good stuff.wav"
+}
+
+sound =
+{
+	name = "gary_popsiclel_man"
+	file = "vo/final_space/Gary/Popsiclel man.wav"
+}
+
+sound =
+{
+	name = "gary_putting_underwear_on_the_circumference_of_my_head"
+	file = "vo/final_space/Gary/Putting underwear on the circumference of my head.wav"
+}
+
+sound =
+{
+	name = "gary_real_raw_gary"
+	file = "vo/final_space/Gary/Real raw gary.wav"
+}
+
+sound =
+{
+	name = "gary_real_raw_promise"
+	file = "vo/final_space/Gary/Real raw promise.wav"
+}
+
+sound =
+{
+	name = "gary_scream"
+	file = "vo/final_space/Gary/Scream.wav"
+}
+
+sound =
+{
+	name = "gary_side_boob"
+	file = "vo/final_space/Gary/Side boob.wav"
+}
+
+sound =
+{
+	name = "gary_so_you_shoot_a_murder_beam_out_of_your_face_hole"
+	file = "vo/final_space/Gary/So you shoot a murder beam out of your face hole.wav"
+}
+
+sound =
+{
+	name = "gary_sounds_like_i_got_the_buttery_buns"
+	file = "vo/final_space/Gary/Sounds like i got the buttery buns.wav"
+}
+
+sound =
+{
+	name = "gary_stuck_here_for_so_long_with_freaking_robots"
+	file = "vo/final_space/Gary/Stuck here for so long with freaking robots.wav"
+}
+
+sound =
+{
+	name = "gary_sucked_into_a_big_ol_butthole"
+	file = "vo/final_space/Gary/Sucked into a big ol butthole.wav"
+}
+
+sound =
+{
+	name = "gary_swallow"
+	file = "vo/final_space/Gary/Swallow.wav"
+}
+
+sound =
+{
+	name = "gary_that_sucks"
+	file = "vo/final_space/Gary/That sucks.wav"
+}
+
+sound =
+{
+	name = "gary_thats_sick"
+	file = "vo/final_space/Gary/Thats sick.wav"
+}
+
+sound =
+{
+	name = "gary_thats_so_freaking_tight"
+	file = "vo/final_space/Gary/Thats so freaking tight.wav"
+}
+
+sound =
+{
+	name = "gary_the_greatest_love_story"
+	file = "vo/final_space/Gary/The greatest love story.wav"
+}
+
+sound =
+{
+	name = "gary_theres_a_dart_sticking_out_of_my_chesticles"
+	file = "vo/final_space/Gary/Theres a dart sticking out of my chesticles.wav"
+}
+
+sound =
+{
+	name = "gary_theres_a_high_chance_we're_all_going_to_die"
+	file = "vo/final_space/Gary/Theres a high chance we're all going to die.wav"
+}
+
+sound =
+{
+	name = "gary_theres_something_mega_not_right_with_your_boy"
+	file = "vo/final_space/Gary/Theres something mega not right with your boy.wav"
+}
+
+sound =
+{
+	name = "gary_thicc_rich_lushous_mustache"
+	file = "vo/final_space/Gary/Thicc rich lushous mustache.wav"
+}
+
+sound =
+{
+	name = "gary_this_is_impossible"
+	file = "vo/final_space/Gary/This is impossible.wav"
+}
+
+sound =
+{
+	name = "gary_this_wasn't_the_greatest_idea"
+	file = "vo/final_space/Gary/This wasn't the greatest idea.wav"
+}
+
+sound =
+{
+	name = "gary_too_insane_to_even_explain"
+	file = "vo/final_space/Gary/Too insane to even explain.wav"
+}
+
+sound =
+{
+	name = "gary_trust_mode_engaged"
+	file = "vo/final_space/Gary/Trust mode engaged.wav"
+}
+
+sound =
+{
+	name = "gary_truth_juice"
+	file = "vo/final_space/Gary/Truth juice.wav"
+}
+
+sound =
+{
+	name = "gary_two_hours_before_my_brain_shoots_out_of_my_eyes"
+	file = "vo/final_space/Gary/Two hours before my brain shoots out of my eyes.wav"
+}
+
+sound =
+{
+	name = "gary_we_can_get_lunch"
+	file = "vo/final_space/Gary/We can get lunch.wav"
+}
+
+sound =
+{
+	name = "gary_we_get_our_first_visitors_in_5_years"
+	file = "vo/final_space/Gary/We get our first visitors in 5 years.wav"
+}
+
+sound =
+{
+	name = "gary_we_got_a_freakin_hole_to_close"
+	file = "vo/final_space/Gary/We got a freakin hole to close.wav"
+}
+
+sound =
+{
+	name = "gary_we_shall_be_called"
+	file = "vo/final_space/Gary/We shall be called.wav"
+}
+
+sound =
+{
+	name = "gary_we're_a_team_now"
+	file = "vo/final_space/Gary/We're a team now.wav"
+}
+
+sound =
+{
+	name = "gary_what_can_i_do_to_make_you_happy"
+	file = "vo/final_space/Gary/What can i do to make you happy.wav"
+}
+
+sound =
+{
+	name = "gary_what_the_motherlovin_crap_is_final_space"
+	file = "vo/final_space/Gary/What the motherlovin crap is final space.wav"
+}
+
+sound =
+{
+	name = "gary_who_is_the_spicy_laytaaay"
+	file = "vo/final_space/Gary/Who is the spicy laytaaay.wav"
+}
+
+sound =
+{
+	name = "gary_you_are_a_planet_destroying_super_weapon"
+	file = "vo/final_space/Gary/You are a planet destroying super weapon.wav"
+}
+
+sound =
+{
+	name = "gary_you_cant_spell_team_without_m_and_e"
+	file = "vo/final_space/Gary/You cant spell team without m and e.wav"
+}
+
+sound =
+{
+	name = "gary_you_dont_by_chance_speak_real_words_do_you"
+	file = "vo/final_space/Gary/You dont by chance speak real words do you.wav"
+}
+
+sound =
+{
+	name = "gary_you_got_my_back"
+	file = "vo/final_space/Gary/You got my back.wav"
+}
+
+sound =
+{
+	name = "gary_you_jerk_face"
+	file = "vo/final_space/Gary/You jerk face.wav"
+}
+
+sound =
+{
+	name = "gary_you_jerk_you_jerk_face"
+	file = "vo/final_space/Gary/You jerk you jerk face.wav"
+}
+
+sound =
+{
+	name = "gary_you_just_joined_the_legion"
+	file = "vo/final_space/Gary/You just joined the legion.wav"
+}
+
+sound =
+{
+	name = "gary_you_just_ripped_off_my_arm"
+	file = "vo/final_space/Gary/You just ripped off my arm.wav"
+}
+
+sound =
+{
+	name = "gary_you_look_every_bit_as_spicy"
+	file = "vo/final_space/Gary/You look every bit as spicy.wav"
+}
+
+sound =
+{
+	name = "gary_you_me_lateeerrr"
+	file = "vo/final_space/Gary/You me Lateeerrr.wav"
+}
+
+sound =
+{
+	name = "gary_you_really_do_love_me"
+	file = "vo/final_space/Gary/You really do love me.wav"
+}
+
+sound =
+{
+	name = "gary_you_said_it_was_better"
+	file = "vo/final_space/Gary/You said it was better.wav"
+}
+
+sound =
+{
+	name = "gary_you're_suffering_from_amnesia"
+	file = "vo/final_space/Gary/you're suffering from amnesia.wav"
+}
+
+sound =
+{
+	name = "gary_you're_the_only_one_i_can_open_my_heart_wall_to"
+	file = "vo/final_space/Gary/You're the only one i can open my heart wall to.wav"
+}
+
+######### Helpers Sounds
+sound =
+{
+	name = "helpers_excited_about_sacrifices"
+	file = "vo/final_space/Helpers/Excited about sacrifices.wav"
+}
+
+sound =
+{
+	name = "helpers_how_can_i_help"
+	file = "vo/final_space/Helpers/How can i help.wav"
+}
+
+sound =
+{
+	name = "helpers_i_assist_the_helpers"
+	file = "vo/final_space/Helpers/I assist the helpers.wav"
+}
+
+sound =
+{
+	name = "helpers_i_will_tell_him_you_have_arrived"
+	file = "vo/final_space/Helpers/I will tell him you have arrived.wav"
+}
+
+sound =
+{
+	name = "helpers_sleeep"
+	file = "vo/final_space/Helpers/Sleeep.wav"
+}
+
+sound =
+{
+	name = "helpers_such_a_precious_specimen"
+	file = "vo/final_space/Helpers/Such a precious specimen.wav"
+}
+
+######### Kevin Sounds
+sound =
+{
+	name = "kevin_count_me_out"
+	file = "vo/final_space/Kevin/Count me out.wav"
+}
+
+sound =
+{
+	name = "kevin_did_you_say_kill_gary_or"
+	file = "vo/final_space/Kevin/Did you say kill gary or.wav"
+}
+
+sound =
+{
+	name = "kevin_hey_kevin"
+	file = "vo/final_space/Kevin/Hey Kevin.wav"
+}
+
+sound =
+{
+	name = "kevin_holes"
+	file = "vo/final_space/Kevin/Holes.wav"
+}
+
+sound =
+{
+	name = "kevin_hot_burning_love"
+	file = "vo/final_space/Kevin/Hot burning love.wav"
+}
+
+sound =
+{
+	name = "kevin_i_am_kevin"
+	file = "vo/final_space/Kevin/I am Kevin.wav"
+}
+
+sound =
+{
+	name = "kevin_i_have_the_key"
+	file = "vo/final_space/Kevin/I have the key.wav"
+}
+
+sound =
+{
+	name = "kevin_i_like_it_hot"
+	file = "vo/final_space/Kevin/I like it hot.wav"
+}
+
+sound =
+{
+	name = "kevin_i'm_better_then_your_dad"
+	file = "vo/final_space/Kevin/I'm better then your dad.wav"
+}
+
+sound =
+{
+	name = "kevin_i'm_your_deep_space_avoidance_companion"
+	file = "vo/final_space/Kevin/I'm your deep space avoidance companion.wav"
+}
+
+sound =
+{
+	name = "kevin_im_kind_of_incharge_on_security"
+	file = "vo/final_space/Kevin/Im kind of incharge on security.wav"
+}
+
+sound =
+{
+	name = "kevin_jello_shots"
+	file = "vo/final_space/Kevin/Jello shots.wav"
+}
+
+sound =
+{
+	name = "kevin_kevin_is_making_helpful_repairs"
+	file = "vo/final_space/Kevin/Kevin is making helpful repairs.wav"
+}
+
+sound =
+{
+	name = "kevin_kevin_wants_to_cover_him_in_buttholes_too"
+	file = "vo/final_space/Kevin/Kevin wants to cover him in buttholes too.wav"
+}
+
+sound =
+{
+	name = "kevin_kevins_got_the_magic"
+	file = "vo/final_space/Kevin/Kevins got the magic.wav"
+}
+
+sound =
+{
+	name = "kevin_kevins_here_to_save_the_daay"
+	file = "vo/final_space/Kevin/Kevins here to save the daay.wav"
+}
+
+sound =
+{
+	name = "kevin_should_i_kill_grary"
+	file = "vo/final_space/Kevin/Should i kill grary.wav"
+}
+
+sound =
+{
+	name = "kevin_so_am_i_the_best_looking_thing"
+	file = "vo/final_space/Kevin/So am i the best looking thing.wav"
+}
+
+sound =
+{
+	name = "kevin_sooooooo_gooood"
+	file = "vo/final_space/Kevin/SoooOOoo Gooood.wav"
+}
+
+sound =
+{
+	name = "kevin_the_sun_is_shining"
+	file = "vo/final_space/Kevin/The sun is shining.wav"
+}
+
+sound =
+{
+	name = "kevin_we're_all_gonna_die"
+	file = "vo/final_space/Kevin/We're all gonna die.wav"
+}
+
+sound =
+{
+	name = "kevin_we're_best_friends"
+	file = "vo/final_space/Kevin/We're best friends.wav"
+}
+
+######### Littlecato Sounds
+sound =
+{
+	name = "littlecato_dad_come_and_find_me"
+	file = "vo/final_space/Littlecato/Dad come and find me.wav"
+}
+
+sound =
+{
+	name = "littlecato_first_order_of_business_revenge"
+	file = "vo/final_space/Littlecato/First order of business revenge.wav"
+}
+
+sound =
+{
+	name = "littlecato_get_to_the_point_im_a_busy_guy"
+	file = "vo/final_space/Littlecato/Get to the point im a busy guy.wav"
+}
+
+sound =
+{
+	name = "littlecato_im_going_to_kill_him"
+	file = "vo/final_space/Littlecato/Im going to kill him.wav"
+}
+
+sound =
+{
+	name = "littlecato_lets_tear_the_lord_commander_a_new_butthole"
+	file = "vo/final_space/Littlecato/Lets tear the lord commander a new butthole.wav"
+}
+
+sound =
+{
+	name = "littlecato_my_father_will_come_for_me"
+	file = "vo/final_space/Littlecato/My father will come for me.wav"
+}
+
+sound =
+{
+	name = "littlecato_reveal_your_secrets"
+	file = "vo/final_space/Littlecato/Reveal your secrets.wav"
+}
+
+sound =
+{
+	name = "littlecato_splash_in_his_life_juice"
+	file = "vo/final_space/Littlecato/Splash in his life juice.wav"
+}
+
+sound =
+{
+	name = "littlecato_we're_gonna_cover_him_in_buttholes"
+	file = "vo/final_space/Littlecato/We're gonna cover him in buttholes.wav"
+}
+
+sound =
+{
+	name = "littlecato_what_the_heck_took_you_so_long"
+	file = "vo/final_space/Littlecato/What the heck took you so long.wav"
+}
+
+sound =
+{
+	name = "littlecato_you_look_like_crap"
+	file = "vo/final_space/Littlecato/You look like crap.wav"
+}
+
+######### Lord Commander Sounds
+sound =
+{
+	name = "lordcommander_after_them"
+	file = "vo/final_space/LordCommander/After them.wav"
+}
+
+sound =
+{
+	name = "lordcommander_all_the_pieces_are_in_place"
+	file = "vo/final_space/LordCommander/All the pieces are in place.wav"
+}
+
+sound =
+{
+	name = "lordcommander_come_in_and_say_hello"
+	file = "vo/final_space/LordCommander/Come in and say hello.wav"
+}
+
+sound =
+{
+	name = "lordcommander_everyone_you've_cared_about_is_gone"
+	file = "vo/final_space/LordCommander/Everyone you've cared about is gone.wav"
+}
+
+sound =
+{
+	name = "lordcommander_good_job_jeff"
+	file = "vo/final_space/LordCommander/Good job jeff.wav"
+}
+
+sound =
+{
+	name = "lordcommander_how_do_i_turn_this_off"
+	file = "vo/final_space/LordCommander/How do i turn this off.wav"
+}
+
+sound =
+{
+	name = "lordcommander_i_haven't_introduced_myself"
+	file = "vo/final_space/LordCommander/I haven't introduced myself.wav"
+}
+
+sound =
+{
+	name = "lordcommander_i_love_games_i_always_win"
+	file = "vo/final_space/LordCommander/I love games i always win.wav"
+}
+
+sound =
+{
+	name = "lordcommander_i_own_you"
+	file = "vo/final_space/LordCommander/I own you.wav"
+}
+
+sound =
+{
+	name = "lordcommander_i_want_you_to_experience_the_same_pain_you_put_me_through"
+	file = "vo/final_space/LordCommander/I want you to experience the same pain you put me through.wav"
+}
+
+sound =
+{
+	name = "lordcommander_is_this_a_game_i_love_games"
+	file = "vo/final_space/LordCommander/Is this a game I love games.wav"
+}
+
+sound =
+{
+	name = "lordcommander_ive_been_looking_all_over_for_you"
+	file = "vo/final_space/LordCommander/Ive been looking all over for you.wav"
+}
+
+sound =
+{
+	name = "lordcommander_my_patience_has_paid_off"
+	file = "vo/final_space/LordCommander/My patience has paid off.wav"
+}
+
+sound =
+{
+	name = "lordcommander_release_the_hives"
+	file = "vo/final_space/LordCommander/Release the hives.wav"
+}
+
+sound =
+{
+	name = "lordcommander_tear_you_limb_from_limb"
+	file = "vo/final_space/LordCommander/Tear you limb from limb.wav"
+}
+
+sound =
+{
+	name = "lordcommander_that_changes_nothing"
+	file = "vo/final_space/LordCommander/That changes nothing.wav"
+}
+
+sound =
+{
+	name = "lordcommander_thats_not_how_we_play_the_game"
+	file = "vo/final_space/LordCommander/Thats not how we play the game.wav"
+}
+
+sound =
+{
+	name = "lordcommander_there_you_are"
+	file = "vo/final_space/LordCommander/There you are.wav"
+}
+
+sound =
+{
+	name = "lordcommander_unbelievably_patient"
+	file = "vo/final_space/LordCommander/Unbelievably patient.wav"
+}
+
+sound =
+{
+	name = "lordcommander_welcome"
+	file = "vo/final_space/LordCommander/Welcome.wav"
+}
+
+sound =
+{
+	name = "lordcommander_what_is_he_trying_to_accomplish"
+	file = "vo/final_space/LordCommander/What is he trying to accomplish.wav"
+}
+
+sound =
+{
+	name = "lordcommander_when_will_it_be_mine"
+	file = "vo/final_space/LordCommander/When will it be mine.wav"
+}
+
+sound =
+{
+	name = "lordcommander_where_did_you_find_it"
+	file = "vo/final_space/LordCommander/Where did you find it.wav"
+}
+
+sound =
+{
+	name = "lordcommander_where_is_it"
+	file = "vo/final_space/LordCommander/Where is it.wav"
+}
+
+sound =
+{
+	name = "lordcommander_wouldn't_think_of_it_that_would_be_rude"
+	file = "vo/final_space/LordCommander/Wouldn't think of it that would be rude.wav"
+}
+
+sound =
+{
+	name = "lordcommander_you_have_something_of_mine"
+	file = "vo/final_space/LordCommander/You have something of mine.wav"
+}
+
+sound =
+{
+	name = "lordcommander_your_father_will_never_find_you"
+	file = "vo/final_space/LordCommander/Your father will never find you.wav"
+}
+
+######### Tribore Sounds
+sound =
+{
+	name = "tribore_are_you_idiots"
+	file = "vo/final_space/Tribore/Are you idiots.wav"
+}
+
+sound =
+{
+	name = "tribore_did_i_order_salseer"
+	file = "vo/final_space/Tribore/Did i order salseer.wav"
+}
+
+sound =
+{
+	name = "tribore_have_i_made_things_better"
+	file = "vo/final_space/Tribore/Have i made things better.wav"
+}
+
+sound =
+{
+	name = "tribore_if_only_there_was_a_resistance"
+	file = "vo/final_space/Tribore/If only there was a resistance.wav"
+}
+
+sound =
+{
+	name = "tribore_is_it_tribore"
+	file = "vo/final_space/Tribore/Is it Tribore.wav"
+}
+
+sound =
+{
+	name = "tribore_its_tribore_we_need_you_on_the_scene"
+	file = "vo/final_space/Tribore/its tribore we need you on the scene.wav"
+}
+
+sound =
+{
+	name = "tribore_time_to_resist"
+	file = "vo/final_space/Tribore/Time to resist.wav"
+}
+
+sound =
+{
+	name = "tribore_triboooore"
+	file = "vo/final_space/Tribore/Triboooore.wav"
+}
+
+sound =
+{
+	name = "tribore_tribores_here"
+	file = "vo/final_space/Tribore/Tribores here.wav"
+}
+
+sound =
+{
+	name = "tribore_twiddling_their_wieners"
+	file = "vo/final_space/Tribore/Twiddling their wieners.wav"
+}
+
+sound =
+{
+	name = "tribore_where_did_all_the_sense_go"
+	file = "vo/final_space/Tribore/Where did all the sense go.wav"
+}
+
+
+soundgroup = 
+{
+	name = final_space_advisor
+	sort_order = 100
+
+	soundeffectoverrides =
+	{
+		advisor_sample_voice_type = final_space_advisor_sample_voice_type
+		advisor_notification_alien_empire_communication_01 = final_space_advisor_notification_alien_empire_communication
+		advisor_notification_alien_federation_formed = final_space_advisor_notification_alien_federation_formed
+		advisor_notification_alien_spaceport_engaged = final_space_advisor_notification_alien_spaceport_engaged
+		advisor_notification_alien_vessel_encountered = final_space_advisor_notification_alien_vessel_encountered
+		advisor_notification_building_ruined = final_space_advisor_notification_building_ruined
+		advisor_notification_colonization_progress = final_space_advisor_notification_colonization_progress
+		advisor_notification_colony_established = final_space_advisor_notification_colony_established
+		advisor_notification_colony_ship_destroyed_01 = final_space_advisor_notification_colony_ship_destroyed_01
+		advisor_notification_colony_ship_under_attack = final_space_advisor_notification_colony_ship_under_attack
+		advisor_notification_construction_complete = final_space_advisor_notification_construction_complete
+		advisor_notification_construction_ship_destroyed = final_space_advisor_notification_construction_ship_destroyed
+		advisor_notification_construction_ship_under_attack = final_space_advisor_notification_construction_ship_under_attack
+		advisor_notification_debris_analysed = final_space_advisor_notification_debris_analysed
+		advisor_notification_discovery_detected = final_space_advisor_notification_discovery_detected
+		advisor_notification_enemy_declared_war = final_space_advisor_notification_enemy_declared_war
+		advisor_notification_enemy_invasion_defeated = final_space_advisor_notification_enemy_invasion_defeated
+		advisor_notification_enemy_troops_landing = final_space_advisor_notification_enemy_troops_landing
+		advisor_notification_evade_hostile_fleet = final_space_advisor_notification_evade_hostile_fleet
+		advisor_notification_federation_formed = final_space_advisor_notification_federation_formed
+		advisor_notification_fleet_destroyed = final_space_advisor_notification_fleet_destroyed
+		advisor_notification_frontier_outpost_lost = final_space_advisor_notification_frontier_outpost_lost
+		advisor_notification_generic_war_declare = final_space_advisor_notification_generic_war_declare
+		advisor_notification_hostile_fleet_detected = final_space_advisor_notification_hostile_fleet_detected
+		advisor_notification_hostile_fleet_engaged = final_space_advisor_notification_hostile_fleet_engaged
+		advisor_notification_hostile_station_engaged = final_space_advisor_notification_hostile_station_engaged
+		advisor_notification_incoming_transmission = final_space_advisor_notification_incoming_transmission
+		advisor_notification_invasion_enemy_won = final_space_advisor_notification_invasion_enemy_won
+		advisor_notification_invasion_failed = final_space_advisor_notification_invasion_failed
+		advisor_notification_invasion_progress = final_space_advisor_notification_invasion_progress
+		advisor_notification_military_station_lost = final_space_advisor_notification_military_station_lost
+		advisor_notification_observation_post_lost = final_space_advisor_notification_observation_post_lost
+		advisor_notification_planet_in_revolt = final_space_advisor_notification_planet_in_revolt
+		advisor_notification_player_declare_war = final_space_advisor_notification_player_declare_war
+		advisor_notification_pre_sapient_uplifted = final_space_advisor_notification_pre_sapient_uplifted
+		advisor_notification_primitive_enlighted = final_space_advisor_notification_primitive_enlighted
+		advisor_notification_research_complete = final_space_advisor_notification_research_complete
+		advisor_notification_research_station_lost = final_space_advisor_notification_research_station_lost
+		advisor_notification_science_ship_destroyed = final_space_advisor_notification_science_ship_destroyed
+		advisor_notification_science_ship_under_attack = final_space_advisor_notification_science_ship_under_attack
+		advisor_notification_ships_upgraded = final_space_advisor_notification_ships_upgraded
+		advisor_notification_situation_log = final_space_advisor_notification_situation_log
+		advisor_notification_spaceborne_encounter = final_space_advisor_notification_spaceborne_encounter
+		advisor_notification_spaceport_lost = final_space_advisor_notification_spaceport_lost
+		advisor_notification_spaceport_under_attack = final_space_advisor_notification_spaceport_under_attack
+		advisor_notification_special_project_complete = final_space_advisor_notification_special_project_complete
+		advisor_notification_species_modified = final_space_advisor_notification_species_modified
+		advisor_notification_station_under_attack = final_space_advisor_notification_station_under_attack
+		advisor_notification_system_survey_complete = final_space_advisor_notification_system_survey_complete
+		advisor_notification_tile_blocker_clear = final_space_advisor_notification_tile_blocker_clear
+		advisor_notification_unidentified_object = final_space_advisor_notification_unidentified_object
+		advisor_notification_wormhole_station_lost = final_space_advisor_notification_wormhole_station_lost
+	}
+}
+	
+
+soundeffect = {
+	name = final_space_advisor_sample_voice_type
+	sounds = {
+		sound = hue_a_takeover_command
+		sound = hue_48_hours
+		sound = hue_sorry_to_be_bearer
+		sound = hue_you_displayed_a_quality
+		sound = clarence_shop_of_doodads
+		sound = extras_i'm_confused
+		sound = extras_we_will_go_with_him
+		sound = gary_crap_my_pants
+		sound = gary_dont_do_it
+		sound = gary_i_became_the_captain
+		sound = gary_just_gonna_get_my_keys
+		sound = gary_what_the_motherlovin_crap_is_final_space
+		sound = helpers_i_will_tell_him_you_have_arrived
+		sound = kevin_i_am_kevin
+		sound = lordcommander_i_haven't_introduced_myself
+		sound = lordcommander_is_this_a_game_i_love_games
+		sound = tribore_is_it_tribore
+	}
+	volume = 0.45
+	max_audible = 1
+	max_audible_behaviour = fail
+}
+soundeffect = {
+	name = final_space_advisor_notification_alien_empire_communication
+	sounds = {
+		sound = hue_for_your_own_safety
+		sound = hue_sorry_to_be_bearer
+		sound = extras_do_you_wanna_get_a_drink
+		sound = extras_your_so_tiny_man
+		sound = gary_crap_my_pants
+		sound = gary_first_time_i_got_a_girls_number_before_i_said_hey
+		sound = gary_heeeey
+		sound = gary_i_like_how_you_speak_words
+		sound = gary_what_can_i_do_to_make_you_happy
+		sound = gary_you_dont_by_chance_speak_real_words_do_you
+		sound = helpers_how_can_i_help
+		sound = helpers_i_will_tell_him_you_have_arrived
+		sound = kevin_i'm_your_deep_space_avoidance_companion
+		sound = lordcommander_how_do_i_turn_this_off
+		sound = lordcommander_welcome
+		sound = tribore_is_it_tribore
+	} 
+	volume = 0.45
+	max_audible = 1
+	max_audible_behaviour = fail
+}
+soundeffect = {
+	name = final_space_advisor_notification_alien_federation_formed
+	sounds = {
+		sound = hue_think_you_know_a_person
+		sound = hue_odds_are
+		sound = extras_i'm_confused
+		sound = gary_dont_do_it
+		sound = lordcommander_is_this_a_game_i_love_games
+	} 
+	volume = 0.45
+	max_audible = 1
+	max_audible_behaviour = fail
+}
+
+soundeffect = {
+	name = final_space_advisor_notification_alien_spaceport_engaged
+	sounds = {
+		sound = hue_kiss_your_cheeks_goodbye
+		sound = extras_we_will_go_with_him
+		sound = gary_i_say_we_burst_in
+		sound = littlecato_we're_gonna_cover_him_in_buttholes
+		sound = tribore_tribores_here
+	} 
+	volume = 0.45
+	max_audible = 1
+	max_audible_behaviour = fail
+}
+
+soundeffect = {
+	name = final_space_advisor_notification_alien_vessel_encountered
+	sounds = {
+		sound = hue_calculating
+		sound = gary_lets_get_wild
+		sound = gary_so_you_shoot_a_murder_beam_out_of_your_face_hole
+		sound = lordcommander_there_you_are
+		sound = tribore_its_tribore_we_need_you_on_the_scene
+	} 
+	volume = 0.45
+	max_audible = 1
+	max_audible_behaviour = fail
+}
+
+soundeffect = {
+	name = final_space_advisor_notification_building_ruined
+	sounds = {
+		sound = hue_48_hours
+		sound = gary_dont_even
+	} 
+	volume = 0.45
+	max_audible = 1
+	max_audible_behaviour = fail
+}
+
+soundeffect = {
+	name = final_space_advisor_notification_colonization_progress
+	sounds = {
+		sound = hue_convulsive_spasm
+		sound = gary_looking_good_gary
+	} 
+	volume = 0.45
+	max_audible = 1
+	max_audible_behaviour = fail
+}
+
+soundeffect = {
+	name = final_space_advisor_notification_colony_established
+	sounds = {
+		sound = hue_timing_is_everything
+		sound = gary_free_candy
+		sound = gary_real_raw_promise
+		sound = helpers_i_assist_the_helpers
+		sound = littlecato_what_the_heck_took_you_so_long
+	} 
+	volume = 0.45
+	max_audible = 1
+	max_audible_behaviour = fail
+}
+
+soundeffect = {
+	name = final_space_advisor_notification_colony_ship_destroyed_01
+	sounds = {
+		sound = hue_zero_probability
+		sound = extras_is_this_what_death_feels_like
+		sound = gary_you_jerk_face
+
+	} 
+	volume = 0.45
+	max_audible = 1
+	max_audible_behaviour = fail
+}
+
+soundeffect = {
+	name = final_space_advisor_notification_colony_ship_under_attack
+	sounds = {
+		sound = hue_cannot_engage_engines
+		sound = gary_dont_even
+		sound = gary_theres_a_high_chance_we're_all_going_to_die
+	} 
+	volume = 0.45
+	max_audible = 1
+	max_audible_behaviour = fail
+}
+
+soundeffect = {
+	name = final_space_advisor_notification_construction_complete
+	sounds = {
+		sound = hue_hell_yeah
+		sound = lordcommander_all_the_pieces_are_in_place
+	} 
+	volume = 0.45
+	max_audible = 1
+	max_audible_behaviour = fail
+}
+
+soundeffect = {
+	name = final_space_advisor_notification_construction_ship_destroyed
+	sounds = {
+		sound = hue_sorry_to_be_bearer
+		sound = gary_i_can_take_anything
+		sound = littlecato_im_going_to_kill_him
+		sound = lordcommander_thats_not_how_we_play_the_game
+	} 
+	volume = 0.45
+	max_audible = 1
+	max_audible_behaviour = fail
+}
+
+soundeffect = {
+	name = final_space_advisor_notification_construction_ship_under_attack
+	sounds = {
+		sound = hue_not_equipped
+		sound = extras_are_you_giving_me_sas
+		sound = kevin_i_like_it_hot
+	} 
+	volume = 0.45
+	max_audible = 1
+	max_audible_behaviour = fail
+}
+
+soundeffect = {
+	name = final_space_advisor_notification_debris_analysed
+	sounds = {
+		sound = hue_calculating
+		sound = gary_popsiclel_man
+		sound = gary_you're_suffering_from_amnesia
+		sound = littlecato_you_look_like_crap
+	} 
+	volume = 0.45
+	max_audible = 1
+	max_audible_behaviour = fail
+}
+
+soundeffect = {
+	name = final_space_advisor_notification_discovery_detected
+	sounds = {
+		sound = hue_entering_into_corona
+		sound = gary_oh_my_gosh_look_at_all_the_crap
+		sound = gary_oh_my_wow
+		sound = kevin_so_am_i_the_best_looking_thing
+		sound = littlecato_dad_come_and_find_me
+		sound = littlecato_reveal_your_secrets
+	} 
+	volume = 0.45
+	max_audible = 1
+	max_audible_behaviour = fail
+}
+
+soundeffect = {
+	name = final_space_advisor_notification_enemy_declared_war
+	sounds = {
+		sound = hue_sorry_to_be_bearer
+		sound = hue_activating_security
+		sound = extras_are_you_giving_me_sas
+		sound = gary_how'd_you_end_up_with_a_little_green_tic_tac_cosmic_butt_head_like_that_in_the_fisrt_place
+		sound = gary_if_he_wants_a_war
+		sound = gary_leason_learned
+		sound = gary_truth_juice
+		sound = lordcommander_everyone_you've_cared_about_is_gone
+		sound = lordcommander_what_is_he_trying_to_accomplish
+		sound = tribore_time_to_resist
+	} 
+	volume = 0.45
+	max_audible = 1
+	max_audible_behaviour = fail
+}
+
+soundeffect = {
+	name = final_space_advisor_notification_enemy_invasion_defeated
+	sounds = {
+		sound = hue_hell_yeah
+		sound = gary_putting_underwear_on_the_circumference_of_my_head
+		sound = helpers_excited_about_sacrifices
+		sound = lordcommander_i_want_you_to_experience_the_same_pain_you_put_me_through
+	} 
+	volume = 0.45
+	max_audible = 1
+	max_audible_behaviour = fail
+}
+
+soundeffect = {
+	name = final_space_advisor_notification_enemy_troops_landing
+	sounds = {
+		sound = hue_48_hours
+		sound = gary_never_ending_unsafe_stairs
+		sound = gary_oh_myyyy_crap
+		sound = gary_theres_a_high_chance_we're_all_going_to_die
+		sound = kevin_we're_all_gonna_die
+	} 
+	volume = 0.45
+	max_audible = 1
+	max_audible_behaviour = fail
+}
+
+soundeffect = {
+	name = final_space_advisor_notification_evade_hostile_fleet
+	sounds = {
+		sound = hue_shield_integrity
+		sound = gary_im_never_gonna_let_you_go_again
+		sound = gary_you_jerk_you_jerk_face
+		sound = kevin_did_you_say_kill_gary_or
+		sound = lordcommander_after_them
+		sound = lordcommander_i_own_you
+	} 
+	volume = 0.45
+	max_audible = 1
+	max_audible_behaviour = fail
+}
+
+soundeffect = {
+	name = final_space_advisor_notification_federation_formed
+	sounds = {
+		sound = hue_only_friend
+		sound = gary_get_back_to_me
+		sound = gary_i_like_how_you_keep_shooting_people_after_they're_dead
+		sound = gary_i_never_thought_id_be_creating_a_murder_squad_with_a_small_boy
+		sound = gary_if_you_want_me_to_trust_you_first_we_clasp
+		sound = gary_name_one_relationship_built_on_honesty
+		sound = gary_no_time_for_cosmic_threeways
+		sound = gary_real_raw_gary
+		sound = gary_the_greatest_love_story
+		sound = gary_trust_mode_engaged
+		sound = gary_we_shall_be_called
+		sound = gary_we're_a_team_now
+		sound = gary_you_cant_spell_team_without_m_and_e
+		sound = gary_you_just_joined_the_legion
+		sound = kevin_hey_kevin
+		sound = kevin_we're_best_friends
+		sound = tribore_are_you_idiots
+	} 
+	volume = 0.45
+	max_audible = 1
+	max_audible_behaviour = fail
+}
+
+soundeffect = {
+	name = final_space_advisor_notification_fleet_destroyed
+	sounds = {
+		sound = hue_kiss_your_cheeks_goodbye
+		sound = extras_is_this_what_death_feels_like
+		sound = gary_theres_a_dart_sticking_out_of_my_chesticles
+		sound = gary_this_wasn't_the_greatest_idea
+		sound = gary_you_just_ripped_off_my_arm
+		sound = lordcommander_that_changes_nothing
+	} 
+	volume = 0.45
+	max_audible = 1
+	max_audible_behaviour = fail
+}
+
+soundeffect = {
+	name = final_space_advisor_notification_frontier_outpost_lost
+	sounds = {
+		sound = hue_intruder_alert
+		sound = gary_how_do_we_get_this_choo_choo_train_back_to_safety_town
+		sound = gary_oh_my_crap
+		sound = gary_we_got_a_freakin_hole_to_close
+		sound = kevin_im_kind_of_incharge_on_security
+		sound = lordcommander_come_in_and_say_hello
+	} 
+	volume = 0.45
+	max_audible = 1
+	max_audible_behaviour = fail
+}
+
+soundeffect = {
+	name = final_space_advisor_notification_generic_war_declare
+	sounds = {
+		sound = hue_not_our_fight
+		sound = gary_all_of_us_are_broken
+		sound = kevin_count_me_out
+		sound = kevin_kevin_wants_to_cover_him_in_buttholes_too
+	} 
+	volume = 0.45
+	max_audible = 1
+	max_audible_behaviour = fail
+}
+
+soundeffect = {
+	name = final_space_advisor_notification_hostile_fleet_detected
+	sounds = {
+		sound = hue_activating_security
+		sound = hue_i_am_detecting_armada
+		sound = gary_are_you_for_serious
+		sound = gary_you_said_it_was_better
+		sound = kevin_should_i_kill_grary
+	} 
+	volume = 0.45
+	max_audible = 1
+	max_audible_behaviour = fail
+}
+
+soundeffect = {
+	name = final_space_advisor_notification_hostile_fleet_engaged
+	sounds = {
+		sound = hue_i_will_beat_you
+		sound = gary_can_you_say_that_a_little_less_creepy_like
+		sound = gary_creeeew
+		sound = helpers_sleeep
+	} 
+	volume = 0.45
+	max_audible = 1
+	max_audible_behaviour = fail
+}
+
+soundeffect = {
+	name = final_space_advisor_notification_hostile_station_engaged
+	sounds = {
+		sound = hue_you_displayed_a_quality
+		sound = extras_we_will_go_with_him
+		sound = kevin_kevins_here_to_save_the_daay
+		sound = lordcommander_tear_you_limb_from_limb
+	} 
+	volume = 0.45
+	max_audible = 1
+	max_audible_behaviour = fail
+}
+
+soundeffect = {
+	name = final_space_advisor_notification_incoming_transmission
+	sounds = {
+		sound = hue_a_takeover_command
+		sound = extras_do_you_wanna_get_a_drink
+		sound = extras_i'm_confused
+		sound = extras_your_so_tiny_man
+		sound = gary_crap_my_pants
+		sound = gary_first_time_i_got_a_girls_number_before_i_said_hey
+		sound = gary_get_back_to_me
+		sound = gary_thicc_rich_lushous_mustache
+		sound = gary_we_can_get_lunch
+		sound = gary_we_get_our_first_visitors_in_5_years
+		sound = gary_you_look_every_bit_as_spicy
+		sound = gary_you_me_lateeerrr
+		sound = gary_you_really_do_love_me
+		sound = littlecato_get_to_the_point_im_a_busy_guy
+	} 
+	volume = 0.45
+	max_audible = 1
+	max_audible_behaviour = fail
+}
+
+soundeffect = {
+	name = final_space_advisor_notification_invasion_enemy_won
+	sounds = {
+		sound = hue_end_of_the_world
+		sound = extras_everything_with_your_sister_was_a_mistake
+		sound = extras_is_this_what_death_feels_like
+		sound = gary_good_lord,_i_hate_you
+		sound = gary_this_is_impossible
+		sound = lordcommander_unbelievably_patient
+	} 
+	volume = 0.45
+	max_audible = 1
+	max_audible_behaviour = fail
+}
+
+soundeffect = {
+	name = final_space_advisor_notification_invasion_failed
+	sounds = {
+		sound = hue_not_equipped
+		sound = gary_i_pulled_the_cupid's_arrow_out
+		sound = gary_you_got_my_back
+	} 
+	volume = 0.45
+	max_audible = 1
+	max_audible_behaviour = fail
+}
+
+soundeffect = {
+	name = final_space_advisor_notification_invasion_progress
+	sounds = {
+		sound = hue_you_displayed_a_quality
+		sound = extras_your_so_tiny_man
+		sound = gary_i_think_i_destroyed_a_family
+		sound = gary_two_hours_before_my_brain_shoots_out_of_my_eyes
+		sound = lordcommander_good_job_jeff
+	} 
+	volume = 0.45
+	max_audible = 1
+	max_audible_behaviour = fail
+}
+
+soundeffect = {
+	name = final_space_advisor_notification_military_station_lost
+	sounds = {
+		sound = hue_think_you_know_a_person
+		sound = extras_get_off_your_sas_buckets
+	} 
+	volume = 0.45
+	max_audible = 1
+	max_audible_behaviour = fail
+}
+
+soundeffect = {
+	name = final_space_advisor_notification_observation_post_lost
+	sounds = {
+		sound = hue_i_can_only_hypothesize
+		sound = gary_side_boob
+	} 
+	volume = 0.45
+	max_audible = 1
+	max_audible_behaviour = fail
+}
+
+soundeffect = {
+	name = final_space_advisor_notification_planet_in_revolt
+	sounds = {
+		sound = hue_i_can_only_hypothesize
+		sound = extras_my_special_little_prince
+		sound = extras_oh_my_gosh_you_are_all_so_sassy
+		sound = gary_cat_wizzz
+		sound = kevin_the_sun_is_shining
+		sound = tribore_if_only_there_was_a_resistance
+	} 
+	volume = 0.45
+	max_audible = 1
+	max_audible_behaviour = fail
+}
+
+soundeffect = {
+	name = final_space_advisor_notification_player_declare_war
+	sounds = {
+		sound = hue_activating_security
+		sound = hue_kiss_your_cheeks_goodbye
+		sound = gary_do_you_play_cards
+		sound = gary_does_anyone_have_a_breath_mint
+		sound = gary_i_am_going_to_murder_your_face_off
+		sound = gary_play_the_good_stuff
+		sound = littlecato_first_order_of_business_revenge
+		sound = littlecato_lets_tear_the_lord_commander_a_new_butthole
+		sound = littlecato_splash_in_his_life_juice
+		sound = lordcommander_i_love_games_i_always_win
+		sound = lordcommander_you_have_something_of_mine
+	} 
+	volume = 0.45
+	max_audible = 1
+	max_audible_behaviour = fail
+}
+
+soundeffect = {
+	name = final_space_advisor_notification_pre_sapient_uplifted
+	sounds = {
+		sound = hue_for_your_own_safety
+		sound = clarence_i'll_touch_you_anytime_i_wish
+		sound = gary_employee_of_the_month
+		sound = gary_get_your_finger_out_of_my_tummy
+		sound = gary_theres_something_mega_not_right_with_your_boy
+		sound = helpers_such_a_precious_specimen
+		sound = lordcommander_your_father_will_never_find_you
+	} 
+	volume = 0.45
+	max_audible = 1
+	max_audible_behaviour = fail
+}
+
+soundeffect = {
+	name = final_space_advisor_notification_primitive_enlighted
+	sounds = {
+		sound = hue_for_your_own_safety
+		sound = clarence_i'll_touch_you_anytime_i_wish
+		sound = gary_employee_of_the_month
+		sound = gary_loved_to_lick_himself
+		sound = gary_you're_the_only_one_i_can_open_my_heart_wall_to
+		sound = kevin_i'm_better_then_your_dad
+	} 
+	volume = 0.45
+	max_audible = 1
+	max_audible_behaviour = fail
+}
+
+soundeffect = {
+	name = final_space_advisor_notification_research_complete
+	sounds = {
+		sound = hue_calculating
+		sound = gary_employee_of_the_month
+		sound = gary_thats_so_freaking_tight
+		sound = kevin_sooooooo_gooood
+		sound = tribore_did_i_order_salseer
+		sound = tribore_have_i_made_things_better
+	} 
+	volume = 0.45
+	max_audible = 1
+	max_audible_behaviour = fail
+}
+
+soundeffect = {
+	name = final_space_advisor_notification_research_station_lost
+	sounds = {
+		sound = hue_think_you_know_a_person
+		sound = gary_love_isn't_a_formula
+	} 
+	volume = 0.45
+	max_audible = 1
+	max_audible_behaviour = fail
+}
+
+soundeffect = {
+	name = final_space_advisor_notification_science_ship_destroyed
+	sounds = {
+		sound = hue_think_you_know_a_person
+		sound = gary_it's_stabbing_my_eyes
+		sound = littlecato_my_father_will_come_for_me
+	} 
+	volume = 0.45
+	max_audible = 1
+	max_audible_behaviour = fail
+}
+
+soundeffect = {
+	name = final_space_advisor_notification_science_ship_under_attack
+	sounds = {
+		sound = hue_i_will_beat_you
+		sound = gary_did_anyone_ever_tell_you_emergency_lighting_brings_out_your_hotness
+		sound = kevin_holes
+	} 
+	volume = 0.45
+	max_audible = 1
+	max_audible_behaviour = fail
+}
+
+soundeffect = {
+	name = final_space_advisor_notification_ships_upgraded
+	sounds = {
+		sound = hue_hell_yeah
+		sound = gary_dont_touch_any_of_my_stuff
+		sound = gary_giant_scepter_of_power
+		sound = gary_you_are_a_planet_destroying_super_weapon
+		sound = kevin_kevin_is_making_helpful_repairs
+		sound = kevin_kevins_got_the_magic
+	} 
+	volume = 0.45
+	max_audible = 1
+	max_audible_behaviour = fail
+}
+
+soundeffect = {
+	name = final_space_advisor_notification_situation_log
+	sounds = {
+		sound = hue_proximity_alert
+		sound = extras_tough_titty_wumpus
+		sound = kevin_i_have_the_key
+		sound = tribore_twiddling_their_wieners
+	} 
+	volume = 0.45
+	max_audible = 1
+	max_audible_behaviour = fail
+}
+
+soundeffect = {
+	name = final_space_advisor_notification_spaceborne_encounter
+	sounds = {
+		sound = hue_proximity_alert
+		sound = extras_we_will_go_with_him
+		sound = gary_get_out_of_my_mind
+		sound = gary_i_knew_you_were_it
+		sound = gary_who_is_the_spicy_laytaaay
+		sound = kevin_hot_burning_love
+		sound = lordcommander_ive_been_looking_all_over_for_you
+		sound = lordcommander_when_will_it_be_mine
+	} 
+	volume = 0.45
+	max_audible = 1
+	max_audible_behaviour = fail
+}
+
+soundeffect = {
+	name = final_space_advisor_notification_spaceport_lost
+	sounds = {
+		sound = hue_i_can_only_hypothesize
+		sound = gary_oh_my_double_crap
+		sound = gary_that_sucks
+	} 
+	volume = 0.45
+	max_audible = 1
+	max_audible_behaviour = fail
+}
+
+soundeffect = {
+	name = final_space_advisor_notification_spaceport_under_attack
+	sounds = {
+		sound = hue_shield_integrity
+		sound = gary_its_a_face_eater
+		sound = lordcommander_release_the_hives
+	} 
+	volume = 0.45
+	max_audible = 1
+	max_audible_behaviour = fail
+}
+
+soundeffect = {
+	name = final_space_advisor_notification_special_project_complete
+	sounds = {
+		sound = hue_calculating
+		sound = gary_motherlovin_cookie
+		sound = gary_murderous_killing_confections
+		sound = gary_nothing_is_impossible
+		sound = gary_too_insane_to_even_explain
+		sound = lordcommander_my_patience_has_paid_off
+		sound = tribore_where_did_all_the_sense_go
+	} 
+	volume = 0.45
+	max_audible = 1
+	max_audible_behaviour = fail
+}
+
+soundeffect = {
+	name = final_space_advisor_notification_species_modified
+	sounds = {
+		sound = hue_you_displayed_a_quality
+		sound = gary_i_dont_see_a_kid_anymore_i_see_a_man_cat
+		sound = gary_stuck_here_for_so_long_with_freaking_robots
+		sound = kevin_jello_shots
+		sound = tribore_triboooore
+	} 
+	volume = 0.45
+	max_audible = 1
+	max_audible_behaviour = fail
+}
+
+soundeffect = {
+	name = final_space_advisor_notification_station_under_attack
+	sounds = {
+		sound = hue_shield_integrity
+		sound = gary_sounds_like_i_got_the_buttery_buns
+	} 
+	volume = 0.45
+	max_audible = 1
+	max_audible_behaviour = fail
+}
+
+soundeffect = {
+	name = final_space_advisor_notification_system_survey_complete
+	sounds = {
+		sound = hue_hell_yeah
+		sound = gary_swallow
+		sound = gary_thats_sick
+		sound = lordcommander_where_is_it
+	} 
+	volume = 0.45
+	max_audible = 1
+	max_audible_behaviour = fail
+}
+
+soundeffect = {
+	name = final_space_advisor_notification_tile_blocker_clear
+	sounds = {
+		sound = hue_cookies_are_done
+		sound = gary_it_feels_so_good
+		sound = lordcommander_wouldn't_think_of_it_that_would_be_rude
+	} 
+	volume = 0.45
+	max_audible = 1
+	max_audible_behaviour = fail
+}
+
+soundeffect = {
+	name = final_space_advisor_notification_unidentified_object
+	sounds = {
+		sound = hue_afriad_i_cannot
+		sound = gary_dont_worry_i_do_this_all_the_time
+		sound = gary_left
+		sound = lordcommander_where_did_you_find_it
+	} 
+	volume = 0.45
+	max_audible = 1
+	max_audible_behaviour = fail
+}
+
+soundeffect = {
+	name = final_space_advisor_notification_wormhole_station_lost
+	sounds = {
+		sound = hue_not_equipped
+		sound = gary_full_blown_screech_alarming
+		sound = gary_implode_into_nothingness
+		sound = gary_scream
+		sound = gary_sucked_into_a_big_ol_butthole
+		sound = gary_we_got_a_freakin_hole_to_close
+	} 
+	volume = 0.45
+	max_audible = 1
+	max_audible_behaviour = fail
+}
+
+
+category = {
+ name = "Voice"
+ soundeffects = {
+		final_space_advisor_sample_voice_type
+		final_space_advisor_notification_alien_empire_communication
+		final_space_advisor_notification_alien_federation_formed
+		final_space_advisor_notification_alien_spaceport_engaged
+		final_space_advisor_notification_alien_vessel_encountered
+		final_space_advisor_notification_building_ruined
+		final_space_advisor_notification_colonization_progress
+		final_space_advisor_notification_colony_established
+		final_space_advisor_notification_colony_ship_destroyed_01
+		final_space_advisor_notification_colony_ship_under_attack
+		final_space_advisor_notification_construction_complete
+		final_space_advisor_notification_construction_ship_destroyed
+		final_space_advisor_notification_construction_ship_under_attack
+		final_space_advisor_notification_debris_analysed
+		final_space_advisor_notification_discovery_detected
+		final_space_advisor_notification_enemy_declared_war
+		final_space_advisor_notification_enemy_invasion_defeated
+		final_space_advisor_notification_enemy_troops_landing
+		final_space_advisor_notification_evade_hostile_fleet
+		final_space_advisor_notification_federation_formed
+		final_space_advisor_notification_fleet_destroyed
+		final_space_advisor_notification_frontier_outpost_lost
+		final_space_advisor_notification_generic_war_declare
+		final_space_advisor_notification_hostile_fleet_detected
+		final_space_advisor_notification_hostile_fleet_engaged
+		final_space_advisor_notification_hostile_station_engaged
+		final_space_advisor_notification_incoming_transmission
+		final_space_advisor_notification_invasion_enemy_won
+		final_space_advisor_notification_invasion_failed
+		final_space_advisor_notification_invasion_progress
+		final_space_advisor_notification_military_station_lost
+		final_space_advisor_notification_observation_post_lost
+		final_space_advisor_notification_planet_in_revolt
+		final_space_advisor_notification_player_declare_war
+		final_space_advisor_notification_pre_sapient_uplifted
+		final_space_advisor_notification_primitive_enlighted
+		final_space_advisor_notification_research_complete
+		final_space_advisor_notification_research_station_lost
+		final_space_advisor_notification_science_ship_destroyed
+		final_space_advisor_notification_science_ship_under_attack
+		final_space_advisor_notification_ships_upgraded
+		final_space_advisor_notification_situation_log
+		final_space_advisor_notification_spaceborne_encounter
+		final_space_advisor_notification_spaceport_lost
+		final_space_advisor_notification_spaceport_under_attack
+		final_space_advisor_notification_special_project_complete
+		final_space_advisor_notification_species_modified
+		final_space_advisor_notification_station_under_attack
+		final_space_advisor_notification_system_survey_complete
+		final_space_advisor_notification_tile_blocker_clear
+		final_space_advisor_notification_unidentified_object
+		final_space_advisor_notification_wormhole_station_lost
+	}
+}

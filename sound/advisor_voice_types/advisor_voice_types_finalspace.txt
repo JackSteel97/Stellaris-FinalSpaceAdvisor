@@ -1,0 +1,6 @@
+final_space_advisor = {
+	name = "advisor_voice_final_space"
+	icon = "gfx/interface/icons/ethics/ethic_finalspace.dds"
+	weight = {}
+	playable = {}
+}
